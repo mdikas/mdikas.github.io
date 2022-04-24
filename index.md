@@ -2,11 +2,13 @@
 
 ---
 
-### Halo 
+###  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1](/sample_page)
+<a href="https://github.com/mdikas/mdikas.github.io/blob/main/dummy.ipynb">View Project 1 (dummy)</a> 
 
+
+[
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -25,11 +27,5 @@
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
----
 
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+] <>
